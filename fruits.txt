@@ -4,3 +4,4 @@ Berry
 Lemon
 Banana
 Muskmelon
+Strawberry
